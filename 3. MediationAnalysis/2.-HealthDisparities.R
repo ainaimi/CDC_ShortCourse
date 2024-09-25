@@ -201,7 +201,7 @@ mod1 <- lm(wt82_71 ~ race, data = nhefs)
 coeftest(mod1, vcov. = vcovHC)
 
 # adjusted model: quitting smoking and death under map_binary = 0
-mod2 <- lm(death ~ race + qsmk + race:qsmk, data = nhefs, weights = sw_qsmk)
+mod2 <- lm(wt82_71 ~ race + qsmk + race:qsmk, data = nhefs, weights = sw_qsmk)
 coeftest(mod2, vcov. = vcovHC)
 
 
