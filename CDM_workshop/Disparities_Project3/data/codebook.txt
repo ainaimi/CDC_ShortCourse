@@ -1,0 +1,14 @@
+### SOME DATA NOTES:
+### HISPRACE RECODING TAKEN FROM https://www.cdc.gov/nchs/data/nsfg/App2_RecodeSpecs.pdf
+### PREGORDR NOT RECODED. INTEGER VARIABLE INDICATOR ORDER OF CURRENT PREGNANCY
+### HPAGELB IS FATHER'S AGE WHEN BABY WAS BORN. RENAMED TO PAGE. https://www.cdc.gov/nchs/data/nsfg/NSFG-2017-2019-FemaleCAPIlite-forPUF-508.pdf
+### PRIORSMK IS NUM CIGS SMOKED DURING 6 MO BEFORE FINDING OUT PREGNANT. https://www.cdc.gov/nchs/data/nsfg/NSFG-2017-2019-FemaleCAPIlite-forPUF-508.pdf
+### POSTSMKS IS WHETHER SMOKED OR NOT AFTER PREGNANT, RECODE 5 TO 0. https://www.cdc.gov/nchs/data/nsfg/NSFG-2017-2019-FemaleCAPIlite-forPUF-508.pdf
+### FMARCON5 IS FORMAL MARITAL STATUS AT CONCEPTION, 5 CATEGORIES: https://www.cdc.gov/nchs/data/nsfg/App2_RecodeSpecs.pdf
+### EDUCMOM IS HIGHEST LEVEL OF EDUCATION COMPLETED BY MOTHER: https://www.cdc.gov/nchs/data/nsfg/App2_RecodeSpecs.pdf
+### PAYDELIV IS HOW DELIVERY WAS PAID FOR: https://www.cdc.gov/nchs/data/nsfg/App2_RecodeSpecs.pdf
+### BFEEDWKS IS DURATION OF BREASTFEEDING IN WEEKS: https://www.cdc.gov/nchs/data/nsfg/App2_RecodeSpecs.pdf
+### PNCAREWK THE PREGNANCY WEEK IN WHICH PRENATAL CARE WAS INITIATED. 95 IS NO CARE: https://www.cdc.gov/nchs/data/nsfg/App2_RecodeSpecs.pdf
+### MATERNLV IS USE OF MATERNITY LEAVE: https://www.cdc.gov/nchs/data/nsfg/App2_RecodeSpecs.pdf
+### WANTRESP IS WANTEDNESS OF PREGNANCY: https://www.cdc.gov/nchs/data/nsfg/App2_RecodeSpecs.pdf
+### AGER IS RESPONDENT'S AGE AT INTERVIEW IN YEARS: https://www.cdc.gov/nchs/data/nsfg/App2_RecodeSpecs.pdf
